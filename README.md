@@ -1,75 +1,106 @@
-<p align="center">
-  <a href="https://github.com/Zainal29">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=634&text=Hello%20i'm%20%20Zainal" alt="Hello i&#39;m  Zainal" />
+<div align="center">
+
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,18,24&height=220&section=header&text=Muhammad%20Zainal%20Arief&fontSize=38&fontAlignY=38&desc=Frontend%20%7C%20Full-Stack%20Software%20Developer&descAlignY=58&descFontSize=18&fontColor=38bdf8&stroke=0284c7" width="100%" />
+
+  <!-- Social & Link Badges -->
+  <p align="center">
+    <a href="https://github.com/Zainal29">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://portofolio-pi-six-82.vercel.app">
+      <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+    <a href="mailto:zainalarief29@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+
+  <!-- Typing Effect Subtitle -->
+  <a href="https://gitfut.com/Zainal29?country=id">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+modern+web+applications;Passionate+about+Full-Stack+Development;Crafting+clean%2C+interactive+user+experiences" alt="Typing SVG" />
   </a>
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=415&height=44&lines=Backend%20%26%20Frontend%20Dev;Student%20at%20SMKN%201%20BANGSRI" alt="Typing headlines" />
-</p>
-
-### About Me
-
-&nbsp;I'm currently working on **DiDispen &amp; BeWood**  
-&nbsp;I'm currently learning **Laravel, React, MySql, Postman, MongoDB.**  
-&nbsp;I'm looking to collaborate on **Backend  &amp; Fronted Developer**  
-&nbsp;I'm looking for help with **solving problems and coming up with new ideas**  
-&nbsp;Ask me about **laravel?**  
-&nbsp;Pronouns: **I am a student at SMKN 1 Bangsri, I am 17 years old**  
-&nbsp;Fun fact: **I like watching people from a distance**
-
-### Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
-
-### Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/muhammad-zainal-arief-6b9654433/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/zainalarf25/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://didispen.smkn1bangsri.sch.id"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:theevil1896@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Zainal29&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Zainal29&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
-
-### Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Zainal29&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
-### Dev Quote
-
-<p align="center">
-  <!-- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" /> -->
-  Mabar EpEp
-</p>
+</div>
 
 ---
-<p align="center"><i> From <a href="https://github.com/Zainal29">Zainal29</a></i></p>
+
+### 🚀 Tentang Saya
+
+- 📍 Berbasis di **Jepara, Indonesia**
+- 💻 Fokus mendalami **Full-Stack Web Development**
+- 🛠️ Senang membangun platform web interaktif, sistem manajemen, dan aplikasi berbasis data
+- 🎯 Mengerjakan proyek dengan arsitektur bersih, performa tinggi, dan UI/UX responsif
+
+---
+
+### 🧰 Tech Stack & Peralatan
+
+<div align="center">
+
+#### Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="28" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black" height="28" />
+</p>
+
+#### Backend & Database
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="28" />
+</p>
+
+#### Tools & DevOps
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height="28" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="28" />
+</p>
+
+</div>
+
+---
+
+### 📌 Proyek Unggulan
+
+| Proyek | Deskripsi | Tech Stack | Status |
+| :--- | :--- | :--- | :---: |
+| 🛡️ **[Didispen](https://github.com/Zainal29/Didispen)** | Sistem perizinan dan verifikasi gerbang digital (UKK / Digipen) | `Laravel` `MySQL` `Tailwind CSS` | ⭐ 2 |
+| 🚌 **[PO-CAN-Travel](https://github.com/Zainal29/PO-CAN-Travel-)** | Platform pemesanan tiket bus interaktif dan *user-friendly* | `PHP` `JavaScript` `Bootstrap` | 🚀 Active |
+| 💼 **[Personal Portfolio](https://github.com/Zainal29/Portofolio)** | Situs portofolio interaktif menampilkan karya dan sertifikasi | `Vite` `Tailwind CSS` `Vercel` | 🌐 Live |
+| 🪵 **[BeWood 3](https://github.com/Zainal29/BeWood_3)** | Platform e-commerce toko online produk kayu | `Full-stack` `Team Project` | 📦 Archive |
+
+---
+
+### 📊 Statistik GitHub & Aktivitas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zainal29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="Statistik Zainal29" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zainal29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Bahasa Populer" height="165" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zainal29&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Streak Statistik" />
+</div>
+
+<br/>
+
+<!-- Heatmap Kontribusi Neon -->
+<div align="center">
+  <img src="https://ghchart.rshah.org/38bdf8/Zainal29" alt="Grafik Kontribusi GitHub Zainal29" width="95%" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Didesain dengan gaya Clean Cyberpunk & Neon Theme • Muhammad Zainal Arief</sub>
+</div>
